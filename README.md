@@ -9,7 +9,7 @@ Shield Insurance Company, a well-known supplier of comprehensive insurance, is w
 
 ✅Power-BI
 
-✅Canva (ppt)
+
 
 The dataset provided by #codebasics is from Insurance companies, in which we have to track the 5 major key metrics
 
@@ -44,11 +44,13 @@ Data Summary :
 ![Screenshot (164)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/3b1e008d-72c7-485a-bdb5-640433abcf4e)
 
 #Dashboard
+![1](https://github.com/mario21snow/Shield-Insurance-Analysis-Dashboard/assets/102954942/ded52434-8395-41fe-b17e-cfcc33208884)
 
-![Screenshot (165)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/c1244fb2-6bb7-46a7-9745-a926836724f7)
-![Screenshot (166)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/3dd63d07-8b2f-4028-b6d4-25393490fb43)
-![Screenshot (167)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/89ff5e61-138c-4577-9d26-3a8f0805a2f7)
-![Screenshot (168)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/9f62df08-ac54-4f19-96be-303d6dfa73a3)
+![1 3](https://github.com/mario21snow/Shield-Insurance-Analysis-Dashboard/assets/102954942/e32b7997-67aa-4ef2-bdc8-7e1ca798a999)
+
+![1 1](https://github.com/mario21snow/Shield-Insurance-Analysis-Dashboard/assets/102954942/5f58c32e-79a6-40f6-9185-d3ff5abe7c9d)
+
+![1 2](https://github.com/mario21snow/Shield-Insurance-Analysis-Dashboard/assets/102954942/e5aef156-ec38-4683-b8dc-d706168c7c8a)
 
 
 
